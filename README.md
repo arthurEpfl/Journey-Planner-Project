@@ -1,2 +1,23 @@
-# Journey-Planner-Project
-Final repository for journey planner project in context of COM-490 course. Implementation of a modified Dijkstra algorithm to calculate shortest paths, a machine learning model also calculates the expected probability of successfully making each change and the total probability of completing the trip. Use of streamlit-based interface.
+# This is our Robust Journey Planner ! 
+
+#### Group B : 
+- Jérémy  Barghorn
+- Théo  Schifferli
+- Pierre Høgenhaug
+- Aurélien Laissy
+- Arthur Pollet
+
+In order to run this project we provided a local version of all the data and machine learning models.
+Simply run the following command to install the dependencies : 
+```
+pip install streamlit scikit-learn==1.5.0 pandas numpy networkx tqdm heapq
+```
+
+And then launch the webapp by running : 
+```
+streamlit run interface.py
+```
+
+The slides can be found [here](LSDS_presentation.pptx.pdf)
+
+And the final presentation video [here](https://drive.google.com/file/d/1JT5YS6-EReK9E0qljRGpoRuwZnPlfxE-/view?usp=sharing)

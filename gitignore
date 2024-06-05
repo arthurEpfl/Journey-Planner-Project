@@ -1,0 +1,8 @@
+.ipynb_checkpoints/data_pyspark-checkpoint.ipynb
+**/*.md
+**/*.ipynb
+**/*.pkl
+**/*.csv..crc
+**/*.csv..crc
+**/*.csv
+**/*.csv..crc
