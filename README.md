@@ -19,5 +19,3 @@ streamlit run interface.py
 ```
 
 The slides can be found [here](LSDS_presentation.pptx.pdf)
-
-And the final presentation video [here](https://drive.google.com/file/d/1JT5YS6-EReK9E0qljRGpoRuwZnPlfxE-/view?usp=sharing)
